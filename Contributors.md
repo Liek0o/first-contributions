@@ -264,6 +264,7 @@ Abhinav Jain
 - [Bishal Khadka](https://github.com/htoohtooag)
 - [Mihir Bhansali](https://github.com/mihir254)
 -[Hnin La Won](https://github.com/HninLaWon)
+- [Lyco](https://github.com/Liek0o)
 - [Cannon Hutcheson]
 - [Michal-Zbob]
 - [jzs-moreno]
